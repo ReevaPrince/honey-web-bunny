@@ -1,0 +1,19 @@
+
+			h1{
+				color:pink;
+				
+			}
+			.header{
+                background-color: rgb(7, 248, 27);
+                display:flex;
+                justify-content: space-between;   
+            }
+            .footer{
+                display:flex;
+                justify-content: flex-end;   
+            }
+            .item{
+                background-color: rgb(248, 244, 7);
+                display:flex;
+                justify-content: flex-between;   
+            }
